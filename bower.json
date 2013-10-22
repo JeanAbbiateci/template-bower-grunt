@@ -1,0 +1,11 @@
+{
+    "name": "project-test",
+    "dependencies": {
+        "jquery": "1.9.0",
+        "components-bootstrap": "2.3.x",
+        "font-awesome": "3.0.2",
+        "angular": "1.0.x",
+        "angular-resource": "1.0.x",
+        "angular-ui-bootstrap-bower": "0.2.x"
+    }
+}
